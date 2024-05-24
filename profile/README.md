@@ -1,6 +1,6 @@
 # GENDING SOFT
 
-GENDING SOFT, yang berlokasi di Desa Kaligending, Kabupaten Kebumen, adalah sebuah software house yang memiliki fokus membantu usaha kecil menengah dalam beralih ke solusi digital
+GENDING SOFT, yang berlokasi di Desa Kaligending, Kabupaten Kebumen, adalah sebuah software house yang memiliki fokus membantu usaha kecil menengah dan pendidikan dalam beralih ke solusi digital
 
 ## FOKUS UTAMA KAMI
 
